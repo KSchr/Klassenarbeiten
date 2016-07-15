@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
     char zk[101];
     int a,i,j;
     char h;
