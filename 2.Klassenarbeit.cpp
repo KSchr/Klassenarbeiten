@@ -25,3 +25,4 @@ int main()
     }
     cout<<zk;
 }
+//Olli hat 'nen schönen Bart
